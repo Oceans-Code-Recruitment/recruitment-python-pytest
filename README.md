@@ -19,3 +19,7 @@ You can execute pytest running:
 # Contribute
 If you have any doubt or comment you can contact:
 - Jose Ignacio Cabrera (jose.ig.cabrera.b@gmail.com)
+
+# Basic Task
+**1.** Debug and found the issue in our code
+**2.** Add the validations/changes suggested by our interviewer
